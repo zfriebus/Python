@@ -1,0 +1,6 @@
+def main():
+    import os
+    os.mkdir('MyFiles/videos')
+
+
+main()
